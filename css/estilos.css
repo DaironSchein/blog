@@ -2,4 +2,12 @@
     color:mediumpurple;
     text-align: center;
     font-family:'Agency FB'; 
+    font-size: 16px;
+}
+#container {
+    width: 70%;
+    padding: 1rem;
+    text-align:left;
+    border: 1px solid #00ff90;
+
 }
