@@ -2,7 +2,7 @@
     color:mediumpurple;
     text-align: center;
     font-family:'Agency FB'; 
-    font-size: 16px;
+    font-size: 26px;
 }
 #container {
     width: 70%;
@@ -10,4 +10,19 @@
     text-align:left;
     border: 1px solid #00ff90;
 
+}
+
+#cabecera
+{
+background: #00ff90;
+font-weight: bold;
+margin: 0;
+padding: 0.5rem;
+
+}
+
+#tag
+{
+    margin-left: 50px;
+    color: aliceblue;
 }
