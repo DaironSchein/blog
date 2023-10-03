@@ -8,13 +8,13 @@
     width: 70%;
     padding: 1rem;
     text-align:left;
-    border: 1px solid #00ff90;
+    border: 1px solid rosybrown;
 
 }
 
 #cabecera
 {
-background: #00ff90;
+background: rosybrown;
 font-weight: bold;
 margin: 0;
 padding: 0.5rem;
